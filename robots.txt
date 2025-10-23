@@ -1,0 +1,10 @@
+# robots.txt for Shayan Khan Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap (optional but good for SEO)
+Sitemap: https://shayankhan.github.io/sitemap.xml
+
+# Extra note:
+# This site contains a single page: index.html
+# All bots are allowed to index and follow links
